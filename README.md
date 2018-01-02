@@ -7,8 +7,7 @@ A sidebar widget plugin which displays the prices of all crypto currencies from 
 
 This plugin can easily be installed like any normal plugin through the admin area. 
 
-The displayed prices are retrieved by the KryptoBuzz platform. Should the website be down for any reason, this widget will show wrong data or no data at all.
-This widget allows you to choose numerous crypto currency and fiat currency pairs to display on your website, through the Appearance > Widgets menu upon adding a KryptoBuzz price ticker on your WordPress website.
+The displayed prices are retrieved by the KryptoBuzz platform. This widget allows you to choose numerous crypto currency and fiat currency pairs to display on your website, through the Appearance > Widgets menu upon adding a KryptoBuzz price ticker on your WordPress website.
 
 Because it takes some time and effort to study how Wordpress plugins are made and code one from scratch. If you like this plugin, I'd be delighted if you could donate some Bitcoin to:
 

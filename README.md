@@ -3,7 +3,7 @@ WordPress Sidebar Widget displaying the lastest Crypto Currency Live price
 
 == Description ==
 
-A sidebar widget plugin which displays the prices of all crypto currencies supported by KryptoBuzz's live tracker
+A sidebar widget plugin which displays the prices of all crypto currencies from www.kryptobuzz.com
 
 This plugin can easily be installed like any normal plugin through the admin area. 
 

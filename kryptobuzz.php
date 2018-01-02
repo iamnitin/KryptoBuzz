@@ -99,7 +99,7 @@ function widget($args, $instance) {
    echo $before_widget;
 
   // Display the Coin Gecko ticker
-   echo '<div><iframe id="widget-ticker-preview" src="//www.kryptobuzz.com/v1/widget/'.strtoupper($crypto).'/'.strtoupper($currency).'" style="border:none;height:160px;" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>';
+   echo '<div><iframe id="widget-ticker-preview" src="//www.kryptobuzz.com/v1/widget/'.strtoupper($crypto).'/'.strtoupper($currency).'" style="border:none;height:160px;width:100%;" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>';
 
    echo $after_widget;
 }

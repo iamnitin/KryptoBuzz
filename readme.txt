@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A sidebar widget plugin which displays the prices of all crypto currencies supported by KryptoBuzz's live tracker
+A sidebar widget plugin which displays the prices of all crypto currencies supported by www.kryptobuzz.com live tracker
 
 This plugin can easily be installed like any normal plugin through the admin area. 
 

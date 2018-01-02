@@ -23,7 +23,7 @@ Thank you!
 
 == Frequently Asked Questions ==
 
-If you have any questions, you can use Q&A page on www.kryptobuzz.com (Services > Q & A) or tweet me @KryptoBuzz. I will be happy to answer them.
+If you have any questions, you can use like and comment on facebook https://www.facebook.com/Kryptobuzz/. I will be happy to answer them.
 
 == Screenshots ==
 

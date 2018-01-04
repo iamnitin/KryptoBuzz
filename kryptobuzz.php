@@ -28,12 +28,6 @@ if( $instance) {
      $currency = 'usd';
 }
 
-/*$defaults = array(
-     'crypto' => 'minerals',
-     'currency'=> 'btc'
-);*/
-
-
 // $instance = wp_parse_args( (array) $instance, $defaults );
 
 ?>
